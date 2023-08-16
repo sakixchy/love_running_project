@@ -112,6 +112,20 @@ main {
     margin-top: 47px;
 }
 
+/* Reasons section */
+   #reasons {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 90%;
+
+   } 
+
+   #reasons-title {
+    font-size: 280%;
+   }
+
 /* Footer */
 footer {
     #social-networks {
