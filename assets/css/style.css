@@ -139,7 +139,13 @@ main {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
-
+/* Meetup Times section */
+#times {
+    background: url('../css/images/dublin-city.webp') no-repeat center/cover;
+    /* Handles responsivity without the need for a media query */
+    display: flex;
+    flex-wrap: wrap;
+}
 /* Footer */
 #social-networks {
     text-align: center;
